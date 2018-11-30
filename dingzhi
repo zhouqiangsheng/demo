@@ -5,190 +5,79 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" conten, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
 <style type="text/css">
 .a {
 	text-align: center;
-}
-#apDiv1 {
-	position: absolute;
-	left: 399px;
-	top: 2px;
-	width: 858px;
-	height: 810px;
-	z-index: 1;
-	font-size: 18px;
-	text-align: left;
-}
-#apDiv2 {
-	position: absolute;
-	left: 476px;
-	top: 204px;
-	width: 93px;
-	height: 27px;
-	z-index: 2;
-	font-size: 18px;
+	font-size: 36px;
 	font-weight: bold;
-}
-#apDiv3 {
-	position: absolute;
-	left: 666px;
-	top: 204px;
-	width: 164px;
-	height: 27px;
-	z-index: 3;
-	font-weight: bold;
-	font-size: 18px;
-}
-#apDiv4 {
-	position: absolute;
-	left: 923px;
-	top: 203px;
-	width: 121px;
-	height: 30px;
-	z-index: 4;
-	font-weight: bold;
-	font-size: 18px;
-}
-#apDiv5 {
-	position: absolute;
-	left: 487px;
-	top: 473px;
-	width: 87px;
-	height: 26px;
-	z-index: 5;
-	font-size: 18px;
-	font-weight: bold;
-}
-#apDiv6 {
-	position: absolute;
-	left: 488px;
-	top: 345px;
-	width: 73px;
-	height: 22px;
-	z-index: 6;
-	font-size: 18px;
-	font-weight: bold;
-}
-#apDiv7 {
-	position: absolute;
-	left: 691px;
-	top: 345px;
-	width: 80px;
-	height: 27px;
-	z-index: 7;
-	font-size: 18px;
-	font-weight: bold;
-}
-#apDiv8 {
-	position: absolute;
-	left: 691px;
-	top: 472px;
-	width: 82px;
-	height: 31px;
-	z-index: 8;
-	font-weight: bold;
-}
-#apDiv9 {
-	position: absolute;
-	left: 682px;
-	top: 615px;
-	width: 96px;
-	height: 30px;
-	z-index: 9;
-	font-size: 18px;
-	font-weight: bold;
+	font-style: italic;
+	font-family: Fixedsys;
 }
 body {
-	background-image: url(t01bfbafe52aedd1876%5B1%5D.jpg);
+	background-color: #FFF;
+	text-align: center;
 }
-#apDiv10 {
-	position: absolute;
-	left: 910px;
-	top: 343px;
-	width: 110px;
-	height: 33px;
-	z-index: 10;
-	font-size: 18px;
-	font-weight: bold;
+.b {
+	font-size: 14px;
+	text-align: center;
 }
-#apDiv11 {
-	position: absolute;
-	left: 914px;
-	top: 465px;
-	width: 116px;
-	height: 38px;
-	z-index: 11;
-	font-weight: bold;
-	font-size: 18px;
-}
-#apDiv12 {
-	position: absolute;
-	left: 899px;
-	top: 615px;
-	width: 128px;
-	height: 39px;
-	z-index: 12;
-	font-size: 18px;
-	font-weight: bold;
-}
-#apDiv13 {
-	position: absolute;
-	left: 487px;
-	top: 617px;
-	width: 87px;
-	height: 34px;
-	z-index: 13;
-	font-weight: bold;
-	font-size: 18px;
-}
-.a #apDiv1 p {
-	color: #F36;
-	font-size: 36px;
-}
-.a {
-	color: #939;
+.b #form1 p {
+	font-size: 14px;
 }
 .c {
-	color: #9F3;
+	color: #FC3;
 }
 .d {
-	color: #F06;
+	color: #F03;
+}
+.e {
+	color: #3FF;
+}
+.r {
+	text-align: center;
 }
 </style>
 </head>
 
-<body class="a">
-<div id="apDiv1">
-  <p>&nbsp;</p>
-  <p>请选择您需要的服务：</p>
-  <p>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-  <p>&nbsp;&nbsp;&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="d"><a href="www.1736010072qq.com">&nbsp;没有找到需要的？别急，请联系我！</a></span></p>
-</div>
-<div id="apDiv2">&nbsp;<a href="www.1736010072qq.com">木制家具</a>&nbsp;&nbsp;</div>
-<div id="apDiv3"><a href="www.1736010072qq.com">手工制作的纪念品</a>&nbsp;</div>
-<div id="apDiv4"><a href="www.1736010072qq.com">花卉产品制作</a></div>
-<div id="apDiv5"><a href="www.1736010072qq.com">家用电器</a>&nbsp;</div>
-<div id="apDiv6"><a href="www.1736010072qq.com">宠物&nbsp;</a></div>
-<div id="apDiv7">&nbsp;<a href="www.1736010072qq.com">钟点工&nbsp;</a>&nbsp;</div>
-<div id="apDiv8"><a href="www.1736010072qq.com">钟表修理</a>&nbsp;</div>
-<div id="apDiv9">&nbsp;<a href="www.1736010072qq.com">百度经验</a></div>
-<div id="apDiv10"><a href="www.1736010072qq.com">果树收购</a></div>
-<div id="apDiv11"><a href="www.1736010072qq.com">黄杨木及树雕木收购</a></div>
-<div id="apDiv12"><a href="www.1736010072qq.com">儿童乐园</a></div>
-<div id="apDiv13"><a href="www.1736010072qq.com">田园风光</a></div>
+<body>
+<table width="104%" height="1049" border="1">
+  <tr>
+    <td width="1616" height="126" bgcolor="#FF9900" class="a">欢迎来到定制网</td>
+  </tr>
+  <tr>
+    <td height="429" bgcolor="#000066" class="b"><form id="form1" name="form1" method="post" action="file:///D:\AppServ\www\02.php">
+      <p><span class="c">请输入您的用户名：</span>
+<input type="text" name="textfield" id="textfield" />
+      </p>
+      <p>&nbsp;</p>
+      <p><span class="c">请输入您的密码</span>：    &nbsp;&nbsp;&nbsp;
+        <label for="textfield2"></label>
+        <input type="password" name="textfield2" id="textfield2" />
+  </p>
+      <p>&nbsp;</p>
+      <p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="submit" name="button" id="button" value="登录" />
+        <a href="file:///D|/AppServ/www/02.php">
+		<?php   header("Refresh:3;url=helloworld.php")?>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        &nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="reset" name="button2" id="button2" value="重置" />
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="file:///E|/www.1736010072qq.com">&nbsp;<span class="e">&nbsp;&nbsp;申请账号密码 </span></a></p>
+    </form>
+    <p>&nbsp;</p>
+    <p><a href="file:///E|/www.qq1736010072.com" class="d">登录于遇到问题？请咨询</a></p>
+    <p></p></td>
+  </tr>
+  <tr>
+    <td height="421" bgcolor="#33FFCC"><p>此网站为专门为广大客户提供定制需求服务的网站，我们将根据你的需求为你量身打造合适的产品，我们涵盖了木制家具、手工制作的纪念品、花卉产品制作、家用电器、宠物、钟点工、钟表修理、百度经验等 在内的服务型网站，只要你想接地气、集中大家的智慧，都可以通过此网站得到帮助。</p>
+    <p class="r">@zhouqiangsheng 1736010072qq.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;版权所有，翻版必究@copyright</p></td>
+  </tr>
+</table>
 </body>
 </html>
